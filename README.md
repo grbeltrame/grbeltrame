@@ -1,3 +1,10 @@
+[![Gio's GitHub stats](https://github-readme-stats.vercel.app/api?username=grbeltrame&show_icons=true&theme=tokyonight&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grbeltrame&size_weight=0.5&count_weight=0.5&langs_count=10&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=grbeltrame)](https://github.com/anuraghazra/github-readme-stats)
+
+
 - 👋 Hi, I’m @grbeltrame
 - 👀 I’m interested in front-end development, UX design
 - 🌱 I’m currently learning UI design, Wordpress, ways to create e-commerces, front-end technologies and tools
